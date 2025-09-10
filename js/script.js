@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 onClick: {enable: true, mode: "push"}
             },
             modes: {
-                repulse: {distance: 100},
+                repulse: {distance: 50},
                 push: {quantity: 4}
             },
         },
