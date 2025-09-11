@@ -28,22 +28,6 @@ Este projeto foi criado como uma **atividade de programação web** para a disci
 
 ---
 
-## 📁 Estrutura do Projeto
-
-A organização dos arquivos segue uma estrutura padrão e limpa:
-.
-├── assets/
-│   └── icon/
-│       └── Formulario.png
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── index.html
-└── README.md
-
----
-
 ## ✒️ Autor
 
 -   **Leonardo Silva**
