@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
 * {
     padding: 0;
     margin: 0;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Delius", cursive;
 }
 
 :root {
@@ -47,11 +49,14 @@ form {
 div {
     display: flex;
     flex-direction: column;
-    
+}
+
+label {
+    font-size: 1.1em;
 }
 
 input, select {
-    height: 20px;
+    padding: 5px;
     border: 1px solid var(--corPrimaria);
     border-radius: 5px;
 }
